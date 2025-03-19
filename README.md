@@ -49,7 +49,7 @@ I'm a big pet lover—currently the proud "dad" of 8 cats and 4 dogs. Life is ne
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** [My Profile](https://www.linkedin.com/in/matheus-lucas-870411a9/a)
+- **LinkedIn:** [My Profile](https://www.linkedin.com/in/matheus-lucas-870411a9)
 - **Email:** mathenls at gmail.com
 
 Feel free to reach out—I'm always happy to chat!
