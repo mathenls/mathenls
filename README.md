@@ -3,6 +3,8 @@ Welcome to my GitHub (still a WIP)!
 
 I'm a Brazilian Software Engineer with a passion for creating scalable, performant, and user-friendly web and mobile applications. My professional background spans from front-end experiences with React, Next.js, and React Native, to back-end engineering with Node.js, GoLang, GraphQL, and cloud platforms like AWS and GCP.
 
+In addition to web and mobile, I’ve also delved into **Web3 and blockchain** projects, working on decentralized applications, smart contracts in **Solidity**, and integrating crypto functionalities into existing ecosystems. I love exploring how these emerging technologies can create new opportunities for businesses and users alike.
+
 Currently, I'm exploring AI-driven solutions and stepping into the world of game development using Godot.
 
 ---
@@ -16,13 +18,14 @@ Currently, I'm exploring AI-driven solutions and stepping into the world of game
 
 ## 🛠️ Tech Stack
 
-- **Languages:** TypeScript, JavaScript, Go, Python, Solidity
+- **Languages:** TypeScript, JavaScript, Go, Python, **Solidity**
 - **Frontend:** React, Next.js, React Native, Angular, Tailwind CSS
 - **Backend & APIs:** Node.js, Express, NestJS, GoLang, REST, GraphQL, Apollo, gRPC, Hasura
 - **Databases:** PostgreSQL, Sequelize, Hasura, Redis
 - **Cloud & DevOps:** AWS (Lambda, EC2, S3, RDS, Elastic Beanstalk, SNS, SES), Google Cloud Platform, Firebase
 - **Testing & QA:** Jest, React Testing Library, Mocha, Puppeteer, Selenium, Postman
 - **Others:** Docker, Kubernetes, Datadog, Sentry, Webpack, Babel, Fastlane
+- **Blockchain & Web3**: Building dApps, writing smart contracts, and integrating crypto functionalities (ETH, EVM-compatible networks, NFTs, etc.)_
 
 ---
 
@@ -37,6 +40,7 @@ Currently, I'm exploring AI-driven solutions and stepping into the world of game
 
 - My journey and experiences as a Brazilian developer working remotely with US-based startups and large corporations.
 - Optimizing frontend and backend performance for large-scale applications.
+- Building blockchain-based solutions and integrating Web3 technologies
 - My transition into AI-driven apps and indie game development.
 
 ---
@@ -53,4 +57,3 @@ I'm a big pet lover—currently the proud "dad" of 8 cats and 4 dogs. Life is ne
 - **Email:** mathenls at gmail.com
 
 Feel free to reach out—I'm always happy to chat!
-
